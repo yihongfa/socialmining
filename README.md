@@ -1,2 +1,4 @@
-# socialmining
-social network mining
+# 复旦大学新闻学院《社交网络挖掘》读书会
+
+<li>导师： 廖圣清  
+<li>报告人： 易红发 黄文森</li>
