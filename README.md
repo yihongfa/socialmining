@@ -12,4 +12,4 @@
 
 位于https://github.com/yihongfa/socialmining/tree/master/code  
 建议将.ipynb文件粘贴至http://nbviewer.jupyter.org/ ，以便浏览、下载和观看。  
-如：[Twitter文本挖掘](https://github.com/yihongfa/socialmining/blob/master/code/01MiningTwitter.ipynb)
+如：[Twitter文本挖掘](http://nbviewer.jupyter.org/github/yihongfa/socialmining/blob/master/code/01MiningTwitter.ipynb)
